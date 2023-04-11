@@ -4,8 +4,9 @@
   <a href="linkedin.com/in/almaz-durusaliev-0373b5195">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+    <img src="https://komarev.com/ghpvc/?username=Almaz2312&style=flat-square&color=blue" alt=""/>
 </div>
-  <img src="https://komarev.com/ghpvc/?username=Almaz2312&style=flat-square&color=blue" alt=""/>
+  
 </div>
 
 
