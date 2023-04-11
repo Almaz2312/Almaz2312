@@ -5,7 +5,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href=mailto:“almazdurusaliev@gmail.com>
-    <img src="https://img.shields.io/badge/Google-blue?style=for-the-badge&logo=google&logoColor=white" alt="Google Badge"/>
+    <img src="https://img.shields.io/badge/Mail-blue?style=for-the-badge&logo=google&logoColor=white" alt="Google Badge"/>
   </a>
 </div>
  <img src="https://komarev.com/ghpvc/?username=Almaz2312&style=flat-square&color=blue" alt=""/> 
